@@ -1,0 +1,10 @@
+Algorithme "Tri par formations pour composer des équipes WorkShop"
+    // "n" corespond au nombre de personnes
+    Int nM2 ; nM1 ; nB3 ; nB2 ; nB1  
+Début
+    Integer nM2  
+    Integer nM1
+    Integer nB3
+    Integer nB2 
+    Integer nB1
+    
